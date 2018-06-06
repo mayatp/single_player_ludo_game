@@ -1,0 +1,21 @@
+RULES OF THE LUDO GAME
+
+
+Welcome to the single player Ludo game. This is an amended version of the original Ludo game. 
+
+The game consists of a board, dice and 4 tokens. In order to take a token on the board and start playing you must roll 6. You must press 1 every time you want to roll the dice. 
+
+The aim of the game is to take every single token, one by one, from it's starting point to its ending point. This can be done by rolling the dice when the token will be moving forward on the board, trying to make a full circle (clockwise direction) and end up in the middle. The end of the game is once all the tokens are at their ending point (you will be able to see the tokens position at any time during the game). 
+
+After a token has made a full circle on the board, it will be placed in the middle where it is safe and you won't be able to move it again.
+To take the next token out, you must roll 6.
+
+BUT! Be careful! There are traps on the road!
+
+If your token steps on a trap, it will be taken to its initial starting point. The good thing is that you don't need to roll 6 to take the token out. You just need to keep rolling the dice to move the token.
+
+Please, be careful and do not enter any strings(letters) as an input of the game because this would either cause the game to terminate or crash.
+
+GOOD LUCK!
+
+Press 1 to start playing! :)
